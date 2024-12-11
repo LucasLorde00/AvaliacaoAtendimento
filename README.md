@@ -33,9 +33,10 @@ Este é um projeto simples que permite ao usuário avaliar o atendimento de um s
 ## Estrutura do Projeto
 ```
 /
+|--src             #Contém os itens abaixo
 |-- index.html     # Estrutura principal do site
 |-- style.css      # Estilização do site
-|-- app.js        # Lógica em JavaScript
+|-- app.js         # Lógica em JavaScript
 |-- images         # Imagens usadas no site
 |-- zipfiles       # Arquivos do projeto zipados
 ```
