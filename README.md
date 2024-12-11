@@ -43,10 +43,6 @@ Este é um projeto simples que permite ao usuário avaliar o atendimento de um s
 - Adicionar validação mais robusta para os campos de entrada.
 - Mostrar os resultados diretamente na página, em vez de usar "alert".
 - Tornar a interface responsiva para dispositivos móveis.
-
-## Licença
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
-
 ---
 
 
