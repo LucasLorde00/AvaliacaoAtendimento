@@ -37,6 +37,7 @@ Este é um projeto simples que permite ao usuário avaliar o atendimento de um s
 |-- style.css      # Estilização do site
 |-- app.js        # Lógica em JavaScript
 |-- images         # Imagens usadas no site
+|-- zipfiles       # Arquivos do projeto zipados
 ```
 
 ## Melhorias Futuras
