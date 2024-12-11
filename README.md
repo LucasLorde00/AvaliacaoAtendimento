@@ -48,7 +48,6 @@ Este é um projeto simples que permite ao usuário avaliar o atendimento de um s
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
 
 ---
-Qualquer dúvidam só chamar! 😊
 
 
 
