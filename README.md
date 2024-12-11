@@ -1,7 +1,4 @@
-
-# Avaliação Restaurante
-
-# Avaliação do Atendimento
+# Avaliação Atendimento
 
 Este é um projeto simples que permite ao usuário avaliar o atendimento de um serviço e calcular a gorjeta com base nessa avaliação. O cálculo também leva em conta o valor total da conta e a quantidade de pessoas que dividirão o pagamento.
 
