@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Avaliação Atendimento</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="box">
+        <h1>Avalie o atendimento, calcule o valor da gorjeta e da conta dividida entre a galera!</h1>
+
+        <form>
+            
+            <div class="input-box">
+                <input type="number" id="price" name="info" placeholder="Digite o valor da conta"/>
+            </div>
+            
+            <div class="input-box">
+                <input type="number" id="group-size" name="info" placeholder="A conta será dividida para quantas pessoas?">
+            </div>
+            
+            <h1>Como você avalia o nosso atendimento?</h1>
+            
+            <div class="satisfaction-survey">
+                
+                <div class="really-bad">
+                    <img id="imgreally-bad" src="images/pessimo.webp" />
+                    <l1>Péssimo</l1>
+                </div>
+
+                <div class="bad">
+                    <img id="imgbad" src="images/ruim.webp" />
+                    <l1>Ruim</l1>
+                </div>
+
+                <div class="neutral">
+                    <img id="imgneutral" src="images/neutro.webp" />
+                    <l1>Neutro</l1>
+                </div>
+
+                <div class="good">
+                    <img id="imggood" src="images/bom.webp" />
+                    <l1>Bom</l1>
+                </div>
+
+                <div class="very-good">
+                    <img id="imgvery-good" src="images/otimo.webp" />
+                    <l1>Ótimo</l1>
+                </div>
+            </div>
+
+        </form>
+    </div>
+
+    <script src="app.js" async defer></script>
+</body>
+
+</html>
