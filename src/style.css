@@ -1,3 +1,52 @@
+@media (max-width: 600px) {
+    .box {
+        padding: 10px;
+    }
+
+    .satisfaction-survey img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .input-box input {
+        width: 90%;
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 601px) and (max-width: 1024px) {
+    .box {
+        padding: 15px;
+    }
+
+    .satisfaction-survey img {
+        width: 60px;
+        height: 60px;
+    }
+
+    .input-box input {
+        width: 80%;
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 1025px) {
+    .box {
+        width: 60%;
+        margin: 0 auto;
+    }
+
+    .satisfaction-survey img {
+        width: 70px;
+        height: 70px;
+    }
+
+    .input-box input {
+        width: 60%;
+        font-size: 18px;
+    }
+}
+
 * {
     margin: 0;
     padding: 0;
